@@ -1,0 +1,1 @@
+{\n  "name": "jerry-facebook-bot",\n  "version": "1.0.0",\n  "description": "Facebook Messenger bot using appstate.json",\n  "main": "index.js",\n  "dependencies": {\n    "facebook-chat-api": "^1.6.0"\n  }\n}

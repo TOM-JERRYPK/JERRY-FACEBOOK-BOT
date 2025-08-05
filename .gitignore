@@ -1,0 +1,15 @@
+# Ignore node modules
+node_modules/
+
+# Ignore sensitive Facebook session data
+appstate.json
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

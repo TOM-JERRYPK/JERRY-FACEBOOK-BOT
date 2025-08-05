@@ -1,0 +1,1 @@
+{\n  "bot_name": "JERRY-FACEBOOK-BOT",\n  "owner": "TOM-JERRYPK",\n  "version": "1.0.0",\n  "facebook": {\n    "page_access_token": "",\n    "verify_token": "",\n    "app_id": "",\n    "app_secret": ""\n  },\n  "webhook": {\n    "url": "",\n    "port": 3000\n  },\n  "logging": true\n}
